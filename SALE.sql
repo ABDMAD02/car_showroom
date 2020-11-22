@@ -1,0 +1,10 @@
+insert into public.SALE (Date_sale, Car_id, Customers_id, Order_id) values ('12.1.2019', 6, 5, 4);
+insert into public.SALE (Date_sale, Car_id, Customers_id, Order_id) values ('5.4.2019', 4, 1, 3);
+insert into public.SALE (Date_sale, Car_id, Customers_id, Order_id) values ('23.10.2019', 3, 9, 8);
+insert into public.SALE (Date_sale, Car_id, Customers_id, Order_id) values ('24.6.2020', 8, 4, 9);
+insert into public.SALE (Date_sale, Car_id, Customers_id, Order_id) values ('28.3.2019', 7, 7, 6);
+insert into public.SALE (Date_sale, Car_id, Customers_id, Order_id) values ('8.10.2019', 6, 2, 7);
+insert into public.SALE (Date_sale, Car_id, Customers_id, Order_id) values ('1.2.2019', 1, 8, 5);
+insert into public.SALE (Date_sale, Car_id, Customers_id, Order_id) values ('7.5.2020', 10, 10, 2);
+insert into public.SALE (Date_sale, Car_id, Customers_id, Order_id) values ('21.1.2020', 9, 3, 1);
+insert into public.SALE (Date_sale, Car_id, Customers_id, Order_id) values ('30.5.2019', 5, 1, 10);

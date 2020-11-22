@@ -1,0 +1,10 @@
+insert into public.SERVICE (Employee_id, Customers_id) values (9, 4);
+insert into public.SERVICE (Employee_id, Customers_id) values (10, 9);
+insert into public.SERVICE (Employee_id, Customers_id) values (8, 7);
+insert into public.SERVICE (Employee_id, Customers_id) values (5, 1);
+insert into public.SERVICE (Employee_id, Customers_id) values (7, 8);
+insert into public.SERVICE (Employee_id, Customers_id) values (3, 2);
+insert into public.SERVICE (Employee_id, Customers_id) values (2, 6);
+insert into public.SERVICE (Employee_id, Customers_id) values (4, 5);
+insert into public.SERVICE (Employee_id, Customers_id) values (1, 3);
+insert into public.SERVICE (Employee_id, Customers_id) values (6, 10);

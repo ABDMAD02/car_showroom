@@ -1,0 +1,10 @@
+insert into public.Order_cust (id_O, Car_id, Customers_id) values (1, 7, 4);
+insert into public.Order_cust (id_O, Car_id, Customers_id) values (7, 4, 5);
+insert into public.Order_cust (id_O, Car_id, Customers_id) values (10, 2, 7);
+insert into public.Order_cust (id_O, Car_id, Customers_id) values (4, 8, 8);
+insert into public.Order_cust (id_O, Car_id, Customers_id) values (2, 3, 10);
+insert into public.Order_cust (id_O, Car_id, Customers_id) values (3, 5, 3);
+insert into public.Order_cust (id_O, Car_id, Customers_id) values (9, 10, 9);
+insert into public.Order_cust (id_O, Car_id, Customers_id) values (8, 1, 2);
+insert into public.Order_cust (id_O, Car_id, Customers_id) values (5, 6, 6);
+insert into public.Order_cust (id_O, Car_id, Customers_id) values (6, 9, 1);

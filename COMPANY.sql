@@ -1,0 +1,10 @@
+insert into public.COMPANY (id_C, Name_comp, Country, Car_id) values (8, 'Skiba', 'Argentina', 6);
+insert into public.COMPANY (id_C, Name_comp, Country, Car_id) values (7, 'Jatri', 'China', 3);
+insert into public.COMPANY (id_C, Name_comp, Country, Car_id) values (1, 'Vipe', 'Brazil', 10);
+insert into public.COMPANY (id_C, Name_comp, Country, Car_id) values (4, 'Meevee', 'Greece', 9);
+insert into public.COMPANY (id_C, Name_comp, Country, Car_id) values (9, 'Mudo', 'Poland', 5);
+insert into public.COMPANY (id_C, Name_comp, Country, Car_id) values (5, 'Topiczoom', 'Indonesia', 8);
+insert into public.COMPANY (id_C, Name_comp, Country, Car_id) values (2, 'Blogpad', 'Russia', 1);
+insert into public.COMPANY (id_C, Name_comp, Country, Car_id) values (6, 'Blognation', 'Finland', 2);
+insert into public.COMPANY (id_C, Name_comp, Country, Car_id) values (3, 'Quire', 'Peru', 9);
+insert into public.COMPANY (id_C, Name_comp, Country, Car_id) values (10, 'Zooveo', 'Ireland', 4);

@@ -1,0 +1,10 @@
+insert into public.CUSTOMERS (id_c, Name_cus, Surname, email, City, Address, Phone_number) values (10, 'Nels', 'Elphey', 'nelphey0@cocolog-nifty.com', 'Dian-ay', '9442 Hauk Place', '822-986-1145');
+insert into public.CUSTOMERS (id_c, Name_cus, Surname, email, City, Address, Phone_number) values (2, 'Trenton', 'Tremayne', 'ttremayne1@wikispaces.com', 'Alavieska', '28405 Derek Pass', '574-549-6156');
+insert into public.CUSTOMERS (id_c, Name_cus, Surname, email, City, Address, Phone_number) values (9, 'Gretel', 'Bown', 'gbown2@unicef.org', 'Saint Paul', '8 Buhler Junction', '651-832-3078');
+insert into public.CUSTOMERS (id_c, Name_cus, Surname, email, City, Address, Phone_number) values (6, 'Marcile', 'Collabine', 'mcollabine3@sbwire.com', 'São Mamede', '115 Surrey Pass', '370-473-7225');
+insert into public.CUSTOMERS (id_c, Name_cus, Surname, email, City, Address, Phone_number) values (5, 'Konstance', 'Tiffin', 'ktiffin4@webnode.com', 'Castlebridge', '912 Milwaukee Drive', '931-448-9969');
+insert into public.CUSTOMERS (id_c, Name_cus, Surname, email, City, Address, Phone_number) values (7, 'Jeremy', 'Clee', 'jclee5@desdev.cn', 'Nangtang', '629 Ilene Pass', '643-491-2498');
+insert into public.CUSTOMERS (id_c, Name_cus, Surname, email, City, Address, Phone_number) values (4, 'Rory', 'Gyer', 'rgyer6@tripod.com', 'Kamo', '71 Orin Circle', '478-380-1135');
+insert into public.CUSTOMERS (id_c, Name_cus, Surname, email, City, Address, Phone_number) values (8, 'Ben', 'Murch', 'bmurch7@bloglines.com', 'Kalávryta', '2095 Welch Plaza', '103-721-2768');
+insert into public.CUSTOMERS (id_c, Name_cus, Surname, email, City, Address, Phone_number) values (3, 'Iago', 'Chapple', 'ichapple8@umich.edu', 'Sula', '49027 Bluestem Road', '739-190-1557');
+insert into public.CUSTOMERS (id_c, Name_cus, Surname, email, City, Address, Phone_number) values (1, 'Woodie', 'Podbury', 'wpodbury9@geocities.com', 'Toulouse', '506 Hintze Junction', '796-352-8190');

@@ -1,0 +1,8 @@
+select * 
+FROM CAR_SHOWROOM 
+INNER JOIN COMPANY
+ON CAR_SHOWROOM.CAR_id = COMPANY.Car_id
+INNER JOIN Order_cust 
+ON COMPANY.Car_id = Order_cust.Car_id
+INNER JOIN SALE
+ON Order_cust.Car_id = SALE.Car_id

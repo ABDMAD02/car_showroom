@@ -1,0 +1,10 @@
+insert into public.CAR_SHOWROOM (car_id, price , colour, brand, type_body, volume_engine, transmission, release_date) values (1, 34033, 'Yellow', 'Mazda', 'Tribute', 2.55, 'automatic', 2008);
+insert into public.CAR_SHOWROOM (car_id, price , colour, brand, type_body, volume_engine, transmission, release_date) values (2, 22563, 'Green', 'Suzuki', 'Samurai', 3.08, 'automatic', 1994);
+insert into public.CAR_SHOWROOM (car_id, price , colour, brand, type_body, volume_engine, transmission, release_date) values (3, 38502, 'Indigo', 'Lexus', 'LS', 3.54, 'automatic', 2005);
+insert into public.CAR_SHOWROOM (car_id, price , colour, brand, type_body, volume_engine, transmission, release_date) values (4, 30892, 'Purple', 'Honda', 'CR-V', 3.46, 'automatic', 2000);
+insert into public.CAR_SHOWROOM (car_id, price , colour, brand, type_body, volume_engine, transmission, release_date) values (5, 40920, 'Turquoise', 'Mitsubishi', 'Mirage', 2.86, 'automatic', 1988);
+insert into public.CAR_SHOWROOM (car_id, price , colour, brand, type_body, volume_engine, transmission, release_date) values (6, 37849, 'Orange', 'GMC', 'Suburban 2500', 4.53, 'automatic', 1998);
+insert into public.CAR_SHOWROOM (car_id, price , colour, brand, type_body, volume_engine, transmission, release_date) values (7, 16611, 'Puce', 'Subaru', 'Impreza', 4.07, 'automatic', 2007);
+insert into public.CAR_SHOWROOM (car_id, price , colour, brand, type_body, volume_engine, transmission, release_date) values (8, 40793, 'Fuscia', 'Saturn', 'Ion', 2.59, 'automatic', 2007);
+insert into public.CAR_SHOWROOM (car_id, price , colour, brand, type_body, volume_engine, transmission, release_date) values (9, 42260, 'Turquoise', 'Subaru', 'Legacy', 4.6, 'automatic', 2006);
+insert into public.CAR_SHOWROOM (car_id, price , colour, brand, type_body, volume_engine, transmission, release_date) values (10, 38133, 'Maroon', 'Infiniti', 'QX56', 3.14, 'automatic', 2007);
